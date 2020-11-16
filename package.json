@@ -5,7 +5,7 @@
     "main": "index.js",
     "scripts": {
         "dev": "parcel src/index.html",
-        "build": "parcel build src/index.html --public-url /Filmoteka/",
+        "build": "parcel build src/index.html --public-url /filmoteka/",
         "deploy": "gh-pages -d dist",
         "predeploy": "npm run build"
     },
@@ -17,9 +17,9 @@
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/ZhivotenkoAlex/Filmoteka"
+        "url": "https://github.com/ZhivotenkoAlex/filmoteka"
     },
-    "homepage": "https://github.com/ZhivotenkoAlex/Filmoteka",
+    "homepage": "https://github.com/ZhivotenkoAlex/filmoteka",
     "devDependencies": {
         "parcel-bundler": "^1.12.4",
         "parcel-plugin-nuke-dist": "^1.0.1"
