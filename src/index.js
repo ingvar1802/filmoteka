@@ -1,9 +1,10 @@
-import "./css/styles.css";
+// import "./css/styles.css";
+import "./sass/main.scss";
+// import "./sass/my-library.scss";
 
-<<<<<<< Updated upstream
-console.log("Мастерская: деплой билда от Parcel на GitHub Pages");
-=======
 
 import './js/page-header.js';
 import './js/getPopular.js'
->>>>>>> Stashed changes
+
+
+import './js/page-header.js';
