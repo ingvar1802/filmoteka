@@ -189,7 +189,7 @@ var reloadCSS = require('_css_loader');
 
 module.hot.dispose(reloadCSS);
 module.hot.accept(reloadCSS);
-},{"./..\\images\\home320_x1.jpg":[["home320_x1.58dfb2ef.jpg","images/home320_x1.jpg"],"images/home320_x1.jpg"],"./..\\images\\home768_x1.jpg":[["home768_x1.7eaccbf9.jpg","images/home768_x1.jpg"],"images/home768_x1.jpg"],"./..\\images\\home1024_x1.jpg":[["home1024_x1.a714abd3.jpg","images/home1024_x1.jpg"],"images/home1024_x1.jpg"],"./..\\images\\my-library320_x1.jpg":[["my-library320_x1.ca3243aa.jpg","images/my-library320_x1.jpg"],"images/my-library320_x1.jpg"],"./..\\images\\my-library768_x1.jpg":[["my-library768_x1.0c497911.jpg","images/my-library768_x1.jpg"],"images/my-library768_x1.jpg"],"./..\\images\\my-library1024_x1.jpg":[["my-library1024_x1.3a56caee.jpg","images/my-library1024_x1.jpg"],"images/my-library1024_x1.jpg"],"./..\\images\\Rectangle320_x1.jpg":[["Rectangle320_x1.3fa92ebf.jpg","images/Rectangle320_x1.jpg"],"images/Rectangle320_x1.jpg"],"./..\\images\\Rectangle1024_x1.jpg":[["Rectangle1024_x1.e8fd318b.jpg","images/Rectangle1024_x1.jpg"],"images/Rectangle1024_x1.jpg"],"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
+},{"./../images/home320_x1.jpg":[["home320_x1.58dfb2ef.jpg","images/home320_x1.jpg"],"images/home320_x1.jpg"],"./../images/home768_x1.jpg":[["home768_x1.7eaccbf9.jpg","images/home768_x1.jpg"],"images/home768_x1.jpg"],"./../images/home1024_x1.jpg":[["home1024_x1.a714abd3.jpg","images/home1024_x1.jpg"],"images/home1024_x1.jpg"],"./../images/my-library320_x1.jpg":[["my-library320_x1.ca3243aa.jpg","images/my-library320_x1.jpg"],"images/my-library320_x1.jpg"],"./../images/my-library768_x1.jpg":[["my-library768_x1.0c497911.jpg","images/my-library768_x1.jpg"],"images/my-library768_x1.jpg"],"./../images/my-library1024_x1.jpg":[["my-library1024_x1.3a56caee.jpg","images/my-library1024_x1.jpg"],"images/my-library1024_x1.jpg"],"./../images/Rectangle320_x1.jpg":[["Rectangle320_x1.3fa92ebf.jpg","images/Rectangle320_x1.jpg"],"images/Rectangle320_x1.jpg"],"./../images/Rectangle1024_x1.jpg":[["Rectangle1024_x1.e8fd318b.jpg","images/Rectangle1024_x1.jpg"],"images/Rectangle1024_x1.jpg"],"_css_loader":"../node_modules/parcel-bundler/src/builtins/css-loader.js"}],"../node_modules/parcel-bundler/src/builtins/hmr-runtime.js":[function(require,module,exports) {
 var global = arguments[3];
 var OVERLAY_ID = '__parcel__error__overlay__';
 var OldModule = module.bundle.Module;
@@ -217,7 +217,7 @@ var parent = module.bundle.parent;
 if ((!parent || !parent.isParcelRequire) && typeof WebSocket !== 'undefined') {
   var hostname = "" || location.hostname;
   var protocol = location.protocol === 'https:' ? 'wss' : 'ws';
-  var ws = new WebSocket(protocol + '://' + hostname + ':' + "54659" + '/');
+  var ws = new WebSocket(protocol + '://' + hostname + ':' + "63210" + '/');
 
   ws.onmessage = function (event) {
     checkedAssets = {};
